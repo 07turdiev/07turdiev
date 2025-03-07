@@ -5,12 +5,11 @@
 <h5 align="center">Java developer from Uzbekistan</h5>
 
 ###
-<h6 align="center"><a href="https://manu.uz" target="_blank">manu.uz</a> | <a href="https://diary.manu.uz" target="_blank">diary.manu.uz</a></h6>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/java-original.svg" height="30" alt="debian logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
