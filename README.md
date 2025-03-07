@@ -83,6 +83,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/07turdiev/07turdiev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
 
 ###
