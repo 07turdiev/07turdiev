@@ -39,3 +39,6 @@
 <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" />
 
 ###
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=https:/&type=Date)](https://www.star-history.com/#https:/&Date)
