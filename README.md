@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Java fullstackdeveloper from Uzbekistan</h5>
+<h5 align="center">Java fullstack developer from Uzbekistan</h5>
 
 
 ###
